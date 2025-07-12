@@ -1387,7 +1387,7 @@ You can view your order in the "My Orders" section.`);
                       <div>
                         <div style={{ fontWeight: '500', color: '#16a34a' }}>📱 UPI Payment (Recommended)</div>
                         <div style={{ fontSize: '12px', color: '#6b7280' }}>Pay using PhonePe, Paytm, GPay, or any UPI app</div>
-                        <div style={{ fontSize: '12px', color: '#16a34a', fontWeight: '500' }}>UPI ID: 7899412553@paytm</div>
+                        <div style={{ fontSize: '12px', color: '#16a34a', fontWeight: '500' }}>UPI ID: karthik9860rai@gmail.com</div>
                       </div>
                     </label>
 

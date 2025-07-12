@@ -190,7 +190,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Karthik Rai**
 - GitHub: [@KARTHIKRAIG](https://github.com/KARTHIKRAIG)
-- Email: karthik9860rai@oksbi
+- Email: karthik9860rai@gmail.com
 
 ## 🙏 Acknowledgments
 
