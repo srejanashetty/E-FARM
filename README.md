@@ -188,9 +188,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👨‍💻 Developer
 
-**Karthik Rai**
-- GitHub: [@KARTHIKRAIG](https://github.com/KARTHIKRAIG)
-- Email: karthik9860rai@gmail.com
+*Srejana Shetty
+Email:shettysrejana1717@gmail.com
 
 ## 🙏 Acknowledgments
 
